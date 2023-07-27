@@ -1,2 +1,3 @@
 # wandb-cicd
-Hello World GitHub Action
+
+These are resources for the W&B CI/CD and ML course
